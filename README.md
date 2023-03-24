@@ -6,6 +6,8 @@ React.JS
 
 ## Part 1: Analyze the authentication flow
 
+![alt text](https://github.com/phuonghuu71/login_assignment/blob/main/login_flowchart.png)
+
 ## Part 2: The Interface 
 
 ### The dependencies used in this project
