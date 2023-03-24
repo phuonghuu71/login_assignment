@@ -32,3 +32,9 @@ Simply clone the project and run npm i && npm start
 - Profile Page:
   - Email Validation
   - Phone Validation
+  
+- Some screenshots:
+
+![alt text](https://github.com/phuonghuu71/login_assignment/blob/main/login.png)
+
+![alt text](https://github.com/phuonghuu71/login_assignment/blob/main/profile.png)
