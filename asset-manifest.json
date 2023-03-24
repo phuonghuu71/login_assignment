@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/login_assignment/static/css/main.fd5e1b94.css",
-    "main.js": "/login_assignment/static/js/main.c00f9e63.js",
-    "static/js/787.e75e59c6.chunk.js": "/login_assignment/static/js/787.e75e59c6.chunk.js",
-    "index.html": "/login_assignment/index.html",
-    "main.fd5e1b94.css.map": "/login_assignment/static/css/main.fd5e1b94.css.map",
-    "main.c00f9e63.js.map": "/login_assignment/static/js/main.c00f9e63.js.map",
-    "787.e75e59c6.chunk.js.map": "/login_assignment/static/js/787.e75e59c6.chunk.js.map"
+    "main.css": "/phuonghuu71.github.io/login_assignment/static/css/main.fd5e1b94.css",
+    "main.js": "/phuonghuu71.github.io/login_assignment/static/js/main.1b61b16b.js",
+    "static/js/787.e75e59c6.chunk.js": "/phuonghuu71.github.io/login_assignment/static/js/787.e75e59c6.chunk.js",
+    "index.html": "/phuonghuu71.github.io/login_assignment/index.html",
+    "main.fd5e1b94.css.map": "/phuonghuu71.github.io/login_assignment/static/css/main.fd5e1b94.css.map",
+    "main.1b61b16b.js.map": "/phuonghuu71.github.io/login_assignment/static/js/main.1b61b16b.js.map",
+    "787.e75e59c6.chunk.js.map": "/phuonghuu71.github.io/login_assignment/static/js/787.e75e59c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd5e1b94.css",
-    "static/js/main.c00f9e63.js"
+    "static/js/main.1b61b16b.js"
   ]
 }
