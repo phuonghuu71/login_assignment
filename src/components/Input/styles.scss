@@ -1,0 +1,32 @@
+@mixin title_format {
+  margin-left: 4px;
+  font-weight: 600;
+}
+
+.input {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  &_title {
+    &--primary {
+      @include title_format();
+      color: #2e09db;
+    }
+
+    &--gray {
+      @include title_format();
+      color: #cdced1;
+    }
+  }
+
+  &_input {
+    padding: 8px;
+    border: 1px solid #a7a7a7;
+    outline: none;
+    font-size: 1em;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+}

@@ -1,0 +1,28 @@
+@mixin button($color, $bg) {
+  button {
+    padding: 8px 16px;
+    color: $color;
+    background-color: $bg;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+
+    cursor: pointer;
+
+    transition: all 0.25s ease-in-out;
+
+    &:hover {
+      filter: brightness(80%);
+    }
+  }
+}
+
+.button {
+  &__primary {
+    @include button(#fff, #2e09db);
+  }
+
+  &__secondary {
+    @include button(#2e09db, #f6f4ff);
+  }
+}
