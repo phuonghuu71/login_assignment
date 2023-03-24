@@ -20,7 +20,7 @@ React.JS
 
 ### How to run the project
 
-Simply clone the project and run npm i && npm start
+Simply clone the project and run npm i && npm start or you can test the app on https://phuonghuu71.github.io/login_assignment
 
 ### Main Function of Project
 - The project doesn't have back-end implemented yet due to not having enough of time so I use local storage instead.
